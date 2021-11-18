@@ -1,0 +1,21 @@
+{
+  "decor": {
+    "logo": "https://raw.githubusercontent.com/raguvoice/raguvoice.github.io/main/images/RaguTechnologies.png",
+    "color": {
+      "r": 56,
+      "g": 56,
+      "b": 56
+    }
+  },
+  
+  "title": "Test Build",
+  "header": "Ragu Voice",
+  "description": "The best voice changer. (I think)",
+  
+  "controls": {
+    "Enable Voice Changer": "toggle",
+    "Download Audio Codecs": "download",
+    "Volume": "slider",
+    "Pitch": "slider"
+  }
+}
