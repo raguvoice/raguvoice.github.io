@@ -27,7 +27,7 @@
     "Download Audio Codecs": "download",
     "Volume": "slider",
     "Pitch": "slider"
-  }
+  },
   
   "download" {
     "error": "Error connecting to raguAudioServers. Try again in a couple of minutes.",
