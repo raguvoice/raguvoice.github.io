@@ -29,7 +29,7 @@
     "Pitch": "slider"
   },
   
-  "download" {
+  "download": {
     "error": "Error connecting to raguAudioServers. Try again in a couple of minutes.",
     "buttons": 0
   }
