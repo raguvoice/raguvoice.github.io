@@ -1,10 +1,20 @@
 {
   "decor": {
     "logo": "https://raw.githubusercontent.com/raguvoice/raguvoice.github.io/main/images/RaguTechnologies.png",
-    "color": {
+    "bg": {
       "r": 56,
       "g": 56,
       "b": 56
+    },
+    "fg1": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "fg2": {
+      "r": 200,
+      "g": 200,
+      "b": 200
     }
   },
   
@@ -17,5 +27,10 @@
     "Download Audio Codecs": "download",
     "Volume": "slider",
     "Pitch": "slider"
+  }
+  
+  "download" {
+    "error": "Error connecting to raguAudioServers. Try again in a couple of minutes.",
+    "buttons": 0
   }
 }
